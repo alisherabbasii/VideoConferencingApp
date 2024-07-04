@@ -4099,12 +4099,12 @@ function showAbout() {
             Email:<a 
                 id="email-button" 
                 data-umami-event="Email button" 
-                href="mailto:miroslav.pejic.85@gmail.com?subject=MiroTalk SFU info"> 
+                href="mailto:miroslav.pejic.85@gmail.com?subject=Mualim Ul Quran info"> 
                 miroslav.pejic.85@gmail.com
             </a>
             <br /><br />
             <hr />
-            <span>&copy; 2024 MiroTalk SFU, all rights reserved</span>
+            <span>&copy; 2024 Mualim Ul Quran, all rights reserved</span>
             <hr />
         </div>
         `,
