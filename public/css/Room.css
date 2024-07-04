@@ -872,7 +872,7 @@ th {
     background-color: transparent !important;
 }
 .swal2-title{
-    display: none;
+    display: none !important;
 }
 .swal2-html-container {
     text-align: center;
