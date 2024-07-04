@@ -311,12 +311,12 @@ module.exports = {
                 name: 'Mualim Ul Quran',
                 title: 'Mualim Ul Quran<br />Free browser based Real-time video calls.<br />Simple, Secure, Fast.',
                 description:
-                    'Start your next video call with a single click. No download, plug-in, or login is required. Just get straight to talking, messaging, and sharing your screen.',
+                    'Start your next video call with a single click.',
             },
             site: {
                 title: 'Mualim Ul Quran, Free Video Calls, Messaging and Screen Sharing',
-                icon: '../images/logo.svg',
-                appleTouchIcon: '../images/logo.svg',
+                icon: '../images/logo.png',
+                appleTouchIcon: '../images/logo.png',
             },
             meta: {
                 description:
@@ -329,8 +329,8 @@ module.exports = {
                 siteName: 'Mualim Ul Quran',
                 title: 'Click the link to make a call.',
                 description: 'Mualim Ul Quran calling provides real-time video calls, messaging and screen sharing.',
-                image: 'https://sfu.mirotalk.com/images/mirotalksfu.png',
-                url: 'https://sfu.mirotalk.com',
+                // image: 'https://sfu.mirotalk.com/images/mirotalksfu.png',
+                // url: 'https://sfu.mirotalk.com',
             },
             html: {
                 features: true,

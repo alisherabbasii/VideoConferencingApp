@@ -39,8 +39,8 @@ let BRAND = {
     },
     site: {
         title: 'Mualim Ul Quran, Free Video Calls, Messaging and Screen Sharing',
-        icon: '../images/logo.svg',
-        appleTouchIcon: '../images/logo.svg',
+        icon: '../images/logo.png',
+        appleTouchIcon: '../images/logo.png',
     },
     meta: {
         description:
