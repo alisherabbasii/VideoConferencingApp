@@ -166,16 +166,16 @@ function customizeMetaTags() {
 // SOCIAL MEDIA SHARING metadata
 function customizeOpenGraph() {
     if (ogType) {
-        ogType.content = BRAND.og.type;
+        ogType.content = "Mualim Ul Quran";
     }
     if (ogSiteName) {
-        ogSiteName.content = BRAND.og.siteName;
+        ogSiteName.content = "Mualim Ul Quran";
     }
     if (ogTitle) {
-        ogTitle.content = BRAND.og.title;
+        ogTitle.content = "Mualim Ul Quran";
     }
     if (ogDescription) {
-        ogDescription.content = BRAND.og.description;
+        ogDescription.content = "Mualim Ul Quran";
     }
     if (ogImage) {
         ogImage.content = BRAND.og.image;
