@@ -133,7 +133,7 @@ function elementDisplay(element, display, mode = 'block') {
 // APP customize
 function customizeApp() {
     if (appTitle) {
-        appTitle.innerHTML = BRAND.app.title;
+        appTitle.innerHTML = "Mualim Ul Quran";
     }
     if (appDescription) {
         appDescription.textContent = BRAND.app.description;
