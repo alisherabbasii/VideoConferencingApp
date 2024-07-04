@@ -2864,7 +2864,7 @@ function leaveFeedback() {
         background: swalBackground,
         imageUrl: image.feedback,
         title: 'Leave a feedback',
-        text: 'Do you want to rate your MiroTalk experience?',
+        text: 'Do you want to rate your Mualim Ul Quran experience?',
         confirmButtonText: `Yes`,
         denyButtonText: `No`,
         showClass: { popup: 'animate__animated animate__fadeInDown' },

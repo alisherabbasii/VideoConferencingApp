@@ -69,8 +69,8 @@ const icons = {
 };
 
 const image = {
-    about: '../images/mirotalk-logo.gif',
-    avatar: '../images/mirotalksfu-logo.png',
+    about: '../images/lms-logo.png',
+    avatar: '../images/lms-logo.png',
     audio: '../images/audio.gif',
     poster: '../images/loader.gif',
     rec: '../images/rec.png',

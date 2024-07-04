@@ -197,7 +197,7 @@ html {
     box-sizing: inherit;
 }
 body {
-    background: #5D3FD3;
+    background: #191970;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
@@ -511,7 +511,7 @@ code,
 kbd,
 tt,
 var {
-    background: #5D3FD3;
+    background: #191970;
 }
 pre {
     font-size: 16px;
@@ -600,7 +600,7 @@ label {
     line-height: 16px;
     text-decoration: none;
     text-transform: uppercase;
-    background-color: #5D3FD3;
+    background-color: #191970;
     color: #0270d7 !important;
     border: none;
     height: auto;
@@ -995,8 +995,8 @@ label {
 .input[disabled],
 .textarea[disabled] {
     cursor: not-allowed;
-    background-color: #5D3FD3;
-    border-color: #5D3FD3;
+    background-color: #191970;
+    border-color: #191970;
 }
 .input {
     -moz-appearance: none;
@@ -1414,7 +1414,7 @@ label {
     justify-content: center;
     padding: 1rem;
     border-radius: 1rem;
-    background: radial-gradient(circle at bottom, #539ce2 0%, #1870d7 50%, #5D3FD3 100%);
+    background: radial-gradient(circle at bottom, #539ce2 0%, #1870d7 50%, #191970 100%);
 }
 @media (min-width: 641px) {
     .features-wrap:first-of-type {
@@ -1572,7 +1572,7 @@ label {
     background: #242830;
 }
 .body-wrap {
-    background: #5D3FD3;
+    background: #191970;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -1928,7 +1928,7 @@ main {
     justify-content: center;
     padding: 1rem;
     border-radius: 1rem;
-    background: radial-gradient(circle at bottom, #000000 0%, #000000 0%, #5D3FD3 100%);
+    background: radial-gradient(circle at bottom, #000000 0%, #000000 0%, #191970 100%);
 }
 
 .clients-logo:hover {

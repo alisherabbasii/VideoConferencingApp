@@ -54,7 +54,7 @@ let BRAND = {
         title: 'Click the link to make a call.',
         description: 'Mualim Ul Quran calling provides real-time video calls, messaging and screen sharing.',
         image: 'https://sfu.mirotalk.com/images/mirotalksfu.png',
-        url: 'https://sfu.mirotalk.com',
+        url: 'https://alisherabbasi.com',
     },
     html: {
         features: true,
