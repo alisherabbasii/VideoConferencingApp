@@ -10,7 +10,7 @@ if (location.href.substr(0, 5) !== 'https') location.href = 'https' + location.h
  * @license For open source use: AGPLv3
  * @license For commercial or closed source, contact us at license.mirotalk@gmail.com or purchase directly via CodeCanyon
  * @license CodeCanyon: https://codecanyon.net/item/mirotalk-sfu-webrtc-realtime-video-conferences/40769970
- * @author  Miroslav Pejic - miroslav.pejic.85@gmail.com
+ * @author  Ali Sher Abbasi - miroslav.pejic.85@gmail.com
  * @version 1.4.80
  *
  */
@@ -4080,27 +4080,20 @@ function showAbout() {
         html: `
         <br />
         <div id="about">
-            <button 
-                id="support-button" 
-                data-umami-event="Support button" 
-                class="pulsate" 
-                onclick="window.open('https://codecanyon.net/user/miroslavpejic85')">
-                <i class="fas fa-heart"></i> 
-                Support
-            </button>
+            
             <br /><br /><br />
             Author: <a 
                 id="linkedin-button" 
                 data-umami-event="Linkedin button" 
-                href="https://www.linkedin.com/in/miroslav-pejic-976a07101/" target="_blank"> 
-                Miroslav Pejic
+                href="https://www.linkedin.com/in/alisherabbasi/" target="_blank"> 
+                Ali Sher Abbasi
             </a>
             <br /><br />
             Email:<a 
                 id="email-button" 
                 data-umami-event="Email button" 
-                href="mailto:miroslav.pejic.85@gmail.com?subject=Mualim Ul Quran info"> 
-                miroslav.pejic.85@gmail.com
+                href="mailto:eaglelibresolutions@yahoo.com?subject=Mualim Ul Quran info"> 
+                eaglelibresolutions@yahoo.com
             </a>
             <br /><br />
             <hr />

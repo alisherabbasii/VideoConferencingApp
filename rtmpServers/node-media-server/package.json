@@ -13,7 +13,7 @@
         "media",
         "server"
     ],
-    "author": "Miroslav Pejic",
+    "author": "Ali Sher Abbasi",
     "license": "AGPLv3",
     "dependencies": {
         "crypto": "^1.0.1",

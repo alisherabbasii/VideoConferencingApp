@@ -49,7 +49,7 @@
         "streaming",
         "realtime"
     ],
-    "author": "Miroslav Pejic",
+    "author": "Ali Sher Abbasi",
     "license": "AGPL-3.0",
     "engines": {
         "node": ">=18"

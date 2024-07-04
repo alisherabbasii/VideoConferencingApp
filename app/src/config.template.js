@@ -197,8 +197,8 @@ module.exports = {
                 By default, the presenter is identified as the first participant to join the room, distinguished by their username and UUID. 
                 Additional layers can be added to specify valid presenters and co-presenters by setting designated usernames.
             */
-            'Miroslav Pejic',
-            'miroslav.pejic.85@gmail.com',
+            'Ali Sher Abbasi',
+            'alisher2161@gmail.com',
         ],
         join_first: true, // Set to true for traditional behavior, false to prioritize presenters
     },

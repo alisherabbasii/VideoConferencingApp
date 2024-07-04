@@ -15,7 +15,7 @@
         "rtmp",
         "server"
     ],
-    "author": "Miroslav Pejic",
+    "author": "Ali Sher Abbasi",
     "license": "AGPLv3",
     "dependencies": {
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
