@@ -29,10 +29,6 @@
         "nms-restart": "docker-compose -f rtmpServers/node-media-server/docker-compose.yml down && docker-compose -f rtmpServers/node-media-server/docker-compose.yml up -d",
         "nms-logs": "docker logs -f mirotalk-nms"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/miroslavpejic85/mirotalksfu"
-    },
     "keywords": [
         "webrtc",
         "socket.io",
